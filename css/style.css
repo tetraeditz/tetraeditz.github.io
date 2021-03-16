@@ -38,9 +38,6 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 0 auto;
-    padding: 100px;
-    padding-top: 0px;
-    padding-bottom: 0px;
     background: #fff;
 }
 
